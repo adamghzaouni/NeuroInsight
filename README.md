@@ -50,7 +50,7 @@ deep-learning-emsi/
 │   └── partie3_RNN_Seq2Seq.ipynb      # Partie III : RNN/LSTM/GRU + Seq2Seq fra→eng
 │
 ├── report/
-│   └── Rapport_DeepLearning_EMSI.pdf  # Rapport complet (25 pages) — géré via Git LFS
+│   └── Rapport_DeepLearning_AdamGHZAOUNI.pdf  # Rapport complet (25 pages) — géré via Git LFS
 │
 ├── requirements.txt                   # Dépendances Python
 ├── .gitattributes                     # Configuration Git LFS (fichiers lourds)
